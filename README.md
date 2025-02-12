@@ -4,11 +4,16 @@ Código desenvolvido durante o curso de **Java Básico** na [Digital Innovation 
 
 ## ✍️ Autor  
 
-<div align="center">
-  <img src="https://github.com/Psytch-01/DIO-Java-Basico/blob/main/DISCORD.png" width="100" style="border-radius: 50%;">
-  [Psytch-](https://github.com/Psytch-01). <br> 
-  📌 Estudante de Tecnologia | Back-End
-</div>
+<table>
+  <tr>
+    <td><img src="https://github.com/Psytch-01/DIO-Java-Basico/blob/main/DISCORD.png" width="100" style="border-radius: 50%;"></td>
+    <td>
+      <a href="#">Psytch-</a><br>
+      <strong>Estudantes de Tecnologia | Back-end </strong>
+    </td>
+  </tr>
+</table>
+
 
 ## 🚀 Inicialização do Git & GitHub
 Para configurar e iniciar seu repositório Git localmente:  
