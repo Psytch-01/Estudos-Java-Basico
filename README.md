@@ -6,7 +6,7 @@ Código desenvolvido durante o curso de **Java Básico** na [Digital Innovation 
 
 <table>
   <tr>
-    <td><center><img src="https://github.com/Psytch-01/DIO-Java-Basico/blob/main/DISCORD.png" width="150" style="border-radius: 50%;"></center></td>
+    <td><center><img src="https://github.com/Psytch-01/DIO-Java-Basico/blob/main/DISCORD.png" width="65" style="border-radius: 50%;"></center></td>
     <td>
       <strong><a href="https://github.com/Psytch-01">Psytch-</a><br></strong>
       <strong>Estudante de Tecnologia | Back-end </strong>
