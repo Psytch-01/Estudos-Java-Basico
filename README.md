@@ -6,10 +6,10 @@ Código desenvolvido durante o curso de **Java Básico** na [Digital Innovation 
 
 <table>
   <tr>
-    <td><img src="https://github.com/Psytch-01/DIO-Java-Basico/blob/main/DISCORD.png" width="100" style="border-radius: 50%;"></td>
+    <td><center><img src="https://github.com/Psytch-01/DIO-Java-Basico/blob/main/DISCORD.png" width="150" style="border-radius: 50%;"></center></td>
     <td>
-      <a href="#">Psytch-</a><br>
-      <strong>Estudantes de Tecnologia | Back-end </strong>
+      <strong><a href="https://github.com/Psytch-01">Psytch-</a><br></strong>
+      <strong>Estudante de Tecnologia | Back-end </strong>
     </td>
   </tr>
 </table>
