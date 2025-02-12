@@ -1,12 +1,12 @@
 # 🖥️ DIO - Java Básico
 
-Código desenvolvido durante o curso de **Java Básico** na [Digital Innovation One](https://www.dio.me/).  
+Códigos desenvolvidos e materiais estudados durante o curso de **Java Básico** na [Digital Innovation One](https://www.dio.me/).  
 
 ## ✍️ Autor  
 
 <table>
   <tr>
-    <td><center><img src="https://github.com/Psytch-01/DIO-Java-Basico/blob/main/DALL%C2%B7E%202025-02-11%2019.53.11%20-%20A%20pixel%20art%20avatar%20inspired%20by%20the%20Lich%20from%20Enter%20the%20Gungeon%2C%20but%20with%20human%20features%20resembling%20Julio_%20long%20dark%20brown%20hair%2C%20glasses%2C%20light%20mustach.png" width="85" style="border-radius: 50%;"></center></td>
+    <td><center><img src="https://github.com/Psytch-01/DIO-Java-Basico/blob/main/Assets/Psytch-.png" width="85" style="border-radius: 50%;"></center></td>
     <td>
       <strong><a href="https://github.com/Psytch-01">Psytch-</a><br></strong>
       <strong>Estudante de Tecnologia | Back-end </strong>
@@ -16,10 +16,7 @@ Código desenvolvido durante o curso de **Java Básico** na [Digital Innovation 
 
 ## 📚 Documentação
 
-<img src="https://raw.githubusercontent.com/Psytch-01/DIO-Java-Basico/main/Assets/1.png" alt="Imagem 1" width="100" style="margin-right: 20px;"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://raw.githubusercontent.com/Psytch-01/DIO-Java-Basico/main/Assets/2.png" alt="Imagem 2" width="100"/>
-
-
-
+[<img src="https://raw.githubusercontent.com/Psytch-01/DIO-Java-Basico/main/Assets/1.png" alt="Imagem 1" width="100" style="margin-right: 20px;"/>](https://git-scm.com/doc)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [<img src="https://raw.githubusercontent.com/Psytch-01/DIO-Java-Basico/main/Assets/2.png" alt="Imagem 2" width="100"/>](https://docs.github.com/pt)
 
 ## 🚀 Inicialização do Git & GitHub
 Para configurar e iniciar seu repositório Git localmente:  
