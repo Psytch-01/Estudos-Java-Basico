@@ -14,6 +14,10 @@ Código desenvolvido durante o curso de **Java Básico** na [Digital Innovation 
   </tr>
 </table>
 
+## 📚 Documentação
+- [Documentação Git](https://git-scm.com/doc).
+- [Documentação Github](https://docs.github.com/).
+
 
 ## 🚀 Inicialização do Git & GitHub
 Para configurar e iniciar seu repositório Git localmente:  
