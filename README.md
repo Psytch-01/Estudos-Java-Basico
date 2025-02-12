@@ -15,8 +15,10 @@ Código desenvolvido durante o curso de **Java Básico** na [Digital Innovation 
 </table>
 
 ## 📚 Documentação
-- [Documentação Git](https://git-scm.com/doc).
-- [Documentação Github](https://docs.github.com/).
+
+<img src="https://raw.githubusercontent.com/Psytch-01/DIO-Java-Basico/main/Assets/1.png" alt="Imagem 1" width="100" style="margin-right: 20px;"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://raw.githubusercontent.com/Psytch-01/DIO-Java-Basico/main/Assets/2.png" alt="Imagem 2" width="100"/>
+
+
 
 
 ## 🚀 Inicialização do Git & GitHub
