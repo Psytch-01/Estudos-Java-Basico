@@ -6,8 +6,8 @@ Código desenvolvido durante o curso de **Java Básico** na [Digital Innovation 
 
 <div align="center">
   <img src="https://github.com/Psytch-01/DIO-Java-Basico/blob/main/DISCORD.png" width="100" style="border-radius: 50%;">
-  [Psytch-](https://github.com/Psytch-01)
-  📌 Estudante de Tecnologia | Back-End</p>
+  [Psytch-](https://github.com/Psytch-01). <br> 
+  📌 Estudante de Tecnologia | Back-End
 </div>
 
 ## 🚀 Inicialização do Git & GitHub
