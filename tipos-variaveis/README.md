@@ -33,6 +33,8 @@ Seguir boas práticas de nomenclatura melhora a legibilidade e manutenção do c
 - **Constantes**: Sempre em **UPPER_SNAKE_CASE**.  
   Exemplo: `TAXA_JUROS`
 
+  Essas práticas ajudam a manter um código mais organizado e compreensível. 🚀
+
 ---
 
 ## Tipos Primitivos em Java
@@ -50,4 +52,10 @@ Java possui oito tipos primitivos fundamentais:
 | `char`  | 16 bits  | '�'          | Caracteres Unicode                     |
 | `boolean`| 1 bit   | false        | true ou false                           |
 
-Essas práticas ajudam a manter um código mais organizado e compreensível. 🚀
+---
+
+## Variáveis e Constantes 
+
+- **Variável** é uma área de memória, associada a um nome, que pode armazenar valores d eum determinado tipo. Um tipo de dado define um conjunto de valores e um conjunto de operações. - **Java** é uma linguagem com rigidez de tipos, diferente de linguagens como o JavaScript, onde declarar o tipo da variável não é obrigatório.  
+
+
