@@ -129,8 +129,9 @@ Um bom entendimento sobre **escopo** é essencial para evitar falhas estruturais
 - **Escopo de Bloco** → Variáveis declaradas dentro de blocos de controle (como `if`, `for` e `while`) existem apenas dentro desses blocos.  
   
 ## Palavras Reservadas da Linguagem Java ☕
+No Java, existem 52 palavras reservadas que têm um significado especial para a linguagem e **não podem ser usadas como identificadores** (nomes de variáveis, métodos, classes, etc.).  
 
-- Em Java, existem 52 palavras reservadas, já possuindo uma finalidade específica.
-- Todas essas palavras são minúsculas, não podendo ser usadas em variáveis, classes, métodos ou atributos.
+Essas palavras fazem parte da sintaxe do Java e são utilizadas para definir a estrutura e o comportamento dos programas.  
 
+- Para acessar o Arquivo com um resumo de todas elas, clique [aqui](https://github.com/Psytch-01/DIO-Java-Basico/blob/main/palavras-reservadas-java/README.md).
 
