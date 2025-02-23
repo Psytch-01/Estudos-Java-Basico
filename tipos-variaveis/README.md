@@ -83,4 +83,32 @@ Simbolos especiais com significado próprio para a linguagem e associados a dete
   String resultado = (idade >= 18) ? "Maior de idade" : "Menor de idade";
 
 ## Métodos  
-Em Desenvolvimento...
+
+Afinal, o que são **Métodos** ?  
+  
+- Todas as ações das aplicações são consideradas métodos.  
+  
+- Os Métodos correspondem a **funções** ou **sub-rotinas** disponíveis dentro de nossas classes.  
+  
+Assim como outros elementos, **Métodos** também possui critérios de nomeação que seguem convenções.  
+São eles:  
+  
+- Deve ser nomeado como verbo.  
+  
+- Seguir o padrão camelCase, tendo como maiúscula a primeira letra da segunda palvra.  
+  
+Caso um **Método** não retorne nenhum valor, este, será representado pela palavra-chave **void**.  
+  
+Também, devemos sempre refletir que **exceções** são comuns na execução de métodos, as vezes é necessário prever e tratar adequadamente possíveis falhas ou comportamentos inadequados.  
+  
+Durante a implementação de métodos, sua **visibilidade** é muito importante, devendo sempre especificar a que nível esse método será visivél dentro da aplicação.  
+  .
+- **public** → Permite o acesso de qualquer classe, dentro ou fora do pacote.
+- **private** → Restringe o acesso apenas à própria classe onde foi declarado.  
+- **protected** → Permite o acesso dentro do mesmo pacote e por subclasses (mesmo que estejam em pacotes diferentes).
+- **default** → Torna o método acessível apenas dentro do mesmo pacote.
+
+```
+Considere olhar o Projeto de exemplo projeto sistema-smart-tv. Nele, conseguimos observar  
+implementações de métodos simples, para manipulação dos estados de uma Televisão simples  
+por um usuário 
