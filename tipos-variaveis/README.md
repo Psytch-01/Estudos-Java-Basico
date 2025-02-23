@@ -135,3 +135,14 @@ Essas palavras fazem parte da sintaxe do Java e são utilizadas para definir a e
 
 - Para acessar o Arquivo com um resumo de todas elas, clique [aqui](https://github.com/Psytch-01/DIO-Java-Basico/blob/main/palavras-reservadas-java/README.md).
 
+## 📖 Javadoc
+
+O **Javadoc** é uma ferramenta oficial do Java usada para gerar **documentação de API** a partir do código-fonte. Ele permite que você documente seu código de maneira estruturada e acessível, criando um guia completo para outros desenvolvedores que irão interagir com suas classes e métodos.
+
+### Como usar o Javadoc?
+
+Após adicionar os comentários Javadoc ao seu código, você pode gerar a documentação HTML executando o seguinte comando no terminal (dentro da pasta do projeto):  
+
+```javadoc -d docs *.java```  
+
+Isso irá gerar arquivos HTML que podem ser acessados no navegador, oferecendo uma visualização clara e organizada da documentação do seu código.
