@@ -108,7 +108,29 @@ Durante a implementação de métodos, sua **visibilidade** é muito importante,
 - **protected** → Permite o acesso dentro do mesmo pacote e por subclasses (mesmo que estejam em pacotes diferentes).
 - **default** → Torna o método acessível apenas dentro do mesmo pacote.
 
-```
-Considere olhar o Projeto de exemplo projeto sistema-smart-tv. Nele, conseguimos observar  
-implementações de métodos simples, para manipulação dos estados de uma Televisão simples  
-por um usuário 
+
+## 📌 Projeto de Exemplo  
+Considere analisar o projeto **sistema-smart-tv**, que demonstra a implementação de métodos simples para manipular os estados de uma TV de forma interativa.  
+
+---
+
+## Escopo de Variáveis  
+
+O **escopo** determina onde uma variável pode ser acessada dentro do código. Em Java, o escopo de uma variável **depende do bloco onde ela foi declarada**.  
+
+Se uma variável for declarada dentro de um bloco específico, ela só poderá ser acessada dentro desse mesmo bloco. Caso contrário, tentativas de leitura ou modificação resultarão em erro.  
+
+Um bom entendimento sobre **escopo** é essencial para evitar falhas estruturais e garantir a integridade da aplicação.  
+
+###  Tipos de Escopo  
+
+- **Escopo de Classe** → Variáveis declaradas dentro da classe podem ser acessadas por diferentes métodos dessa classe, dependendo do modificador de acesso.  
+- **Escopo de Método** → Variáveis declaradas dentro de um método são acessíveis apenas dentro desse método e deixam de existir após sua execução.  
+- **Escopo de Bloco** → Variáveis declaradas dentro de blocos de controle (como `if`, `for` e `while`) existem apenas dentro desses blocos.  
+  
+## Palavras Reservadas da Linguagem Java ☕
+
+- Em Java, existem 52 palavras reservadas, já possuindo uma finalidade específica.
+- Todas essas palavras são minúsculas, não podendo ser usadas em variáveis, classes, métodos ou atributos.
+
+
