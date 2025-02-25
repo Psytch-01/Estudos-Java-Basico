@@ -154,7 +154,7 @@ precisará instalar uma IDE para executar o sistema.
   
 Com a JVM devidamente configurada, podemos criar um executável da nossa aplicação, e disponibilizar o instalador para qualquer sistema.
 
-Veja informações mais completas sobre entrada de dados, argumentos e como funciona a execução de programas
+📌 Para mais informações sobre **entrada de dados, argumentos e execução de programas**, confira o [**README do projeto java-terminal**](https://github.com/Psytch-01/DIO-Java-Basico/blob/main/java-terminal/README.md).
 
 ### Comandos Básicos MS-DOS
 
