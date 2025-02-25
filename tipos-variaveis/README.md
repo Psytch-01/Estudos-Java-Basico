@@ -145,4 +145,22 @@ Após adicionar os comentários Javadoc ao seu código, você pode gerar a docum
 
 ```javadoc -d docs *.java```  
 
-Isso irá gerar arquivos HTML que podem ser acessados no navegador, oferecendo uma visualização clara e organizada da documentação do seu código.
+Isso irá gerar arquivos HTML que podem ser acessados no navegador, oferecendo uma visualização clara e organizada da documentação do seu código.  
+
+## 📟 >_ Terminal e Argumentos
+
+É muito importante obter o conhecimento de como funciona a execução de uma aplicação. Imagine ter que passar para o cliente que ele  
+precisará instalar uma IDE para executar o sistema.  
+  
+Com a JVM devidamente configurada, podemos criar um executável da nossa aplicação, e disponibilizar o instalador para qualquer sistema.
+
+Veja informações mais completas sobre entrada de dados, argumentos e como funciona a execução de programas
+
+### Comandos Básicos MS-DOS
+
+#### 📁 Comandos de Navegação e Arquivos  
+- `dir` → Lista arquivos e pastas do diretório atual.  
+- `cd [pasta]` → Entra em uma pasta específica.  
+- `cd ..` → Volta para o diretório anterior.  
+- `cls` → Limpa a tela do terminal.  
+- `mkdir [nome]` → Cria uma nova pasta.
