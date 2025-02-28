@@ -164,3 +164,19 @@ Com a JVM devidamente configurada, podemos criar um executável da nossa aplica�
 - `cd ..` → Volta para o diretório anterior.  
 - `cls` → Limpa a tela do terminal.  
 - `mkdir [nome]` → Cria uma nova pasta.
+
+## Estruturas Condicionais em Java
+
+Estruturas Condicionais são elementos importantíssimos na criação de programas. Elas permitem a tomada de decisão com base em condições específicas.   
+Assim, essas estruturas permitem a execução ou não de blocos de códigos dependendo de um teste lógico, como uma comparação entre valores, por exemplo.  
+Elas ajudam a controlar o fluxo de execução de acordo com as condições implementadas pelo dev, o ajudando a criar programas mais dinâmicos e capazes   
+de reagir diferente as entradas do usuário ou outras variáveis.  
+
+Aqui você encontrará explicações e exemplos sobre:
+- **Condicional Simples** (`if`) - Executa um bloco de código se a condição for verdadeira.
+- **Condicional Composta** (`if-else`) - Define um caminho alternativo caso a condição não seja atendida.
+- **Condicional Encadeada** (`if-else-if`) - Permite múltiplas verificações em sequência.
+- **Condição Ternária** (`? :`) - Uma forma reduzida de `if-else` para expressões simples.
+- **Switch Case** - Alternativa para múltiplas verificações baseadas no valor de uma variável, geralmente usada para tipos como `int`, `char`, `String` e `enum`.
+
+**Para um estudo mais aprofundado, considere ler o README do [projeto controle-fluxo](https://github.com/Psytch-01/DIO-Java-Basico/blob/main/controle-fluxo/README.md)**
