@@ -225,7 +225,7 @@ for (int i = 1; i <= 5; i++) {
 
 ---
 
-## 📌 Conclusão
+## 📌 Conclusão Estruturas de Repetição
 
 As estruturas de repetição são fundamentais para a programação, permitindo a automação de tarefas repetitivas. Escolher a estrutura correta depende do contexto:
 
