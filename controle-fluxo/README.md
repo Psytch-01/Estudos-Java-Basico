@@ -234,3 +234,44 @@ As estruturas de repetição são fundamentais para a programação, permitindo 
 - **`do-while`** → Quando queremos garantir pelo menos uma execução.
 
 ---
+
+# Tratamento de Exceções: Try-Catch e Finally
+
+No Java, exceções são eventos que podem interromper o fluxo normal de um programa. Para lidar com esses erros de forma controlada, utilizamos `try-catch` e `finally`.
+
+## `try-catch`
+O bloco `try` contém o código que pode gerar uma exceção, enquanto o bloco `catch` trata a exceção caso ela ocorra. Exemplo:
+
+```java
+try {
+    int resultado = 10 / 0; // Isso causará uma  exceção ArithmeticException
+} catch (ArithmeticException e) {
+    System.out.println("Erro: divisão por zero não permitida.");
+}
+```
+
+## `finally`
+O bloco `finally` é opcional e contém código que sempre será executado, independentemente de uma exceção ter ocorrido ou não. Ele é útil para liberar recursos, como fechar arquivos ou conexões de banco de dados.
+
+```java
+try {
+    System.out.println("Executando código...");
+} catch (Exception e) {
+    System.out.println("Ocorreu um erro: " + e.getMessage());
+} finally {
+    System.out.println("Bloco finally sempre será executado.");
+}
+```
+
+Esse mecanismo ajuda a tornar os programas mais robustos e a evitar falhas inesperadas durante a execução.
+
+## Hierarquia de Exceções 🏛️
+
+As exceções em Java são organizadas em uma hierarquia de classes dentro do pacote `java.lang`. Todas as exceções são derivadas da classe `Throwable`, que se divide em duas principais categorias:
+
+- **Exception**: Representa exceções verificadas (*checked exceptions*), que devem ser tratadas obrigatoriamente pelo programador. Exemplo: `IOException`, `SQLException`.
+- **RuntimeException**: Exceções não verificadas (*unchecked exceptions*), que ocorrem durante a execução do programa e não precisam ser obrigatoriamente tratadas. Exemplo: `NullPointerException`, `ArithmeticException`.
+
+<br>
+
+<img src="https://raw.githubusercontent.com/Psytch-01/DIO-Java-Basico/main/Assets/ExceptionHierarchy.png" alt="Imagem ExceptionHierarchy"/>

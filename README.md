@@ -286,5 +286,19 @@ Essas estruturas oferecem controle sobre o fluxo de execução, tornando o códi
 
 📌 **Para uma explicação mais detalhada sobre laços de repetição, confira o README do [projeto estruturas-repeticao](https://github.com/Psytch-01/DIO-Java-Basico/tree/main/controle-fluxo).**
 
+## Tratamento de Exceções ⚠️
+
+Em Java, exceções são eventos que ocorrem durante a execução do programa e podem interromper seu fluxo normal. Para lidar com essas situações de forma controlada, utilizamos a estrutura `try-catch` e, opcionalmente, o bloco `finally`.
+
+- **`try`**: Envolve o código que pode gerar uma exceção.
+- **`catch`**: Captura e trata a exceção específica, evitando que o programa pare abruptamente.
+- **`finally`**: Executado sempre, independentemente de ocorrer uma exceção ou não. Normalmente usado para liberar recursos, como conexões de banco de dados ou arquivos.
+
+
+
+O tratamento adequado de exceções torna o código mais seguro, prevenindo falhas inesperadas e garantindo um melhor controle do fluxo do programa.
+
+📌 **Para uma explicação mais aprofundada sobre o tratamento de exceções, confira o README do [projeto controle-fluxo](https://github.com/Psytch-01/DIO-Java-Basico/tree/main/controle-fluxo).**
+
 
 ---
