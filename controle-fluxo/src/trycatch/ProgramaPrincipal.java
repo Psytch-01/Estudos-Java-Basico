@@ -9,7 +9,7 @@ public class ProgramaPrincipal {
         
         double valorTotal = 1000.0;
         double entrada = 200.0;
-        int parcelas = 5;
+        int parcelas = 4;
 
         try {
             Financiamento f = new Financiamento (valorTotal, entrada, parcelas);
