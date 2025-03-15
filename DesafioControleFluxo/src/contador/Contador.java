@@ -1,34 +1,34 @@
 package contador;
 
+import java.util.Scanner;
+
 //Fazer o DESAFIO AQUI
 
 public class Contador {
-    public static void main(String[] args) {
-        Scanner terminal = 0;
+    public static int contando;
 
-        int parametroUm = terminal.??;
-        int parametroDois = terminal.??;
+    public static void main(String[] args) {
+        Scanner terminal = new Scanner(System.in);
+
+        int parametroUm = terminal.nextInt();
+        int parametroDois = terminal.nextInt();
 
         try {
 
-                // Chamando o método contendo a lógica de contagem.
-                contar(parametroUm, parametroDois); 
-
-            }catch (? exception) {
-
-                    // Imprimir a mensagem: O segundo parâmetro deve ser maior que o primeiro
-
-            }
-
+            int contando = ParametrosInvalidosException.contar(parametroUm, parametroDois);
+           
+            System.out.println(contando);                
+           
+                        
+        }catch (RuntimeException e) {
+            System.out.println(e.getMessage());
+        }
+        
+        terminal.close();
     }
+}      
 
-    static void contar(int parametroUM, int parametroDois) throws ParametrosInvalidosException {
+//java.util.InputMismatchException Ao colocar uma letra
+//java.util.InputMismatchException  Ao colocar 10.0
+//java.util.InputMismatchException Ao colocar -
 
-            // Validar se parametroUm é MAIOR que parametroDois e lançar a exceção
-
-            int contagem = parametroDois - parametroUm;
-            // Realizar o for para imprimir os números com base na variável contagem
-    }
-
-
-}
