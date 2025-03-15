@@ -20,6 +20,8 @@ Caso o primeiro parâmetro seja maior que o segundo, o programa deve lançar uma
 
 ## Etapa 1️⃣
 
+Criação das classes do Projeto.
+
 ### Classe `ParametrosInvalidosException` 
 
 Na classe de exceção, foi criado o método `contar(int parametroUm, int parametroDois)`, que realiza a seguinte lógica:
@@ -35,3 +37,14 @@ Na classe principal, `Contador`, o programa:
     2. Chama o método `contar` da classe `ParametrosInvalidosException`, passando os números como argumentos.  
     3. Se a execução ocorrer sem problemas, imprime a diferença entre os números.  
     4. Caso ocorra uma `RuntimeException`, a mensagem de erro é exibida no console.  
+
+## Etapa 2️⃣
+
+Implementação do Laço (for) na classe principal, `Contador`, do programa:  
+
+- **Laço for**: Foi inserido um laço for que vai de 1 até a diferença entre os dois parâmetros.
+- Cada vez que o laço executa, ele imprime no console o número atual do contador.
+
+## Etapa 3️⃣
+
+Em desenvolvimento...

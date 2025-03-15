@@ -13,7 +13,7 @@ public class ParametrosInvalidosException {
             return Contador.contando = parametroDois - parametroUm;
                                
         }else if (parametroDois < parametroUm) {
-            throw new RuntimeException("O segundo número precisa ser maior que o primeiro número");
+            throw new RuntimeException("O segundo parâmetro deve ser maior que o primeiro");
 
         }else {
             throw new InputMismatchException("O número deve ser inteiro");
