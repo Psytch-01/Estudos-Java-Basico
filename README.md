@@ -31,19 +31,19 @@ O objetivo é registrar meu progresso e criar um espaço para aprendizado contí
 
 ## Projetos 🛠️
 
-- **[Tipos de Variáveis](https://github.com/Psytch-01/DIO-Java-Basico/tree/main/tipos-variaveis)**  
+- **[Tipos de Variáveis](https://github.com/Psytch-01/DIO-Java-Basico/tree/main/sintaxe-basica-java/tipos-variaveis)**  
   Exploração dos diferentes tipos de variáveis em Java e suas aplicações.
 
-- **[Controle de Fluxo](https://github.com/Psytch-01/DIO-Java-Basico/tree/main/controle-fluxo)**  
+- **[Controle de Fluxo](https://github.com/Psytch-01/DIO-Java-Basico/tree/main/sintaxe-basica-java/controle-fluxo)**  
   Estudo sobre estruturas de controle de fluxo, incluindo condições e laços em Java.
 
-- **[java-terminal](https://github.com/Psytch-01/DIO-Java-Basico/tree/main/java-terminal)**  
+- **[java-terminal](https://github.com/Psytch-01/DIO-Java-Basico/tree/main/sintaxe-basica-java/java-terminal)**  
   Desenvolvimento de uma aplicação Java com execução diretamente pelo terminal, explorando conceitos básicos de input e output.
 
-- **[palavras-reservadas-java](https://github.com/Psytch-01/DIO-Java-Basico/tree/main/palavras-reservadas-java)**  
+- **[palavras-reservadas-java](https://github.com/Psytch-01/DIO-Java-Basico/tree/main/sintaxe-basica-java/palavras-reservadas-java)**  
   Análise detalhada das palavras reservadas da linguagem Java, explicando suas funções e usos dentro do código.
 
-- **[sistema-smart-tv](https://github.com/Psytch-01/DIO-Java-Basico/tree/main/sistema-smart-tv)**  
+- **[sistema-smart-tv](https://github.com/Psytch-01/DIO-Java-Basico/tree/main/sintaxe-basica-java/sistema-smart-tv)**  
   Implementação de um sistema simples de controle de uma smart TV, onde comandos de uma classe controlam o comportamento de outra classe (simulação de interação entre objetos).
 
 
@@ -173,7 +173,7 @@ Durante a implementação de métodos, sua **visibilidade** é muito importante,
 
 
 ## 📌 Projeto de Exemplo  
-Considere analisar o projeto **[sistema-smart-tv](https://github.com/Psytch-01/DIO-Java-Basico/tree/main/sistema-smart-tv)**, que demonstra a implementação de métodos simples para manipular os estados de uma TV de forma interativa.
+Considere analisar o projeto **[sistema-smart-tv](https://github.com/Psytch-01/DIO-Java-Basico/tree/main/sintaxe-basica-java/sistema-smart-tv)**, que demonstra a implementação de métodos simples para manipular os estados de uma TV de forma interativa.
  
 
 ---
@@ -197,7 +197,7 @@ No Java, existem 52 palavras reservadas que têm um significado especial para a 
 
 Essas palavras fazem parte da sintaxe do Java e são utilizadas para definir a estrutura e o comportamento dos programas.  
 
-- Para acessar o Arquivo com um resumo de todas elas, clique [aqui](https://github.com/Psytch-01/DIO-Java-Basico/blob/main/palavras-reservadas-java/README.md).
+📌 Para acessar o Arquivo com um resumo de todas elas, considere ler o README do projeto [palavras-reservadas-java](https://github.com/Psytch-01/DIO-Java-Basico/blob/main/sintaxe-basica-java/palavras-reservadas-java/README.md).
 
 ## 📖 Javadoc
 
@@ -218,7 +218,7 @@ precisará instalar uma IDE para executar o sistema.
   
 Com a JVM devidamente configurada, podemos criar um executável da nossa aplicação, e disponibilizar o instalador para qualquer sistema.
 
-📌 Para mais informações sobre **entrada de dados, argumentos e execução de programas**, confira o [**README do projeto java-terminal**](https://github.com/Psytch-01/DIO-Java-Basico/blob/main/java-terminal/README.md).
+📌 Para mais informações sobre **entrada de dados, argumentos e execução de programas**, confira o [**README do projeto java-terminal**](https://github.com/Psytch-01/DIO-Java-Basico/blob/main/sintaxe-basica-java/java-terminal/README.md).
 
 ### Comandos Básicos MS-DOS
 
@@ -243,7 +243,7 @@ Aqui você encontrará explicações e exemplos sobre:
 - **Condição Ternária** (`? :`) - Uma forma reduzida de `if-else` para expressões simples.
 - **Switch Case** - Alternativa para múltiplas verificações baseadas no valor de uma variável, geralmente usada para tipos como `int`, `char`, `String` e `enum`.
 
-📌 **Para um estudo mais aprofundado, considere ler o README do [projeto controle-fluxo](https://github.com/Psytch-01/DIO-Java-Basico/blob/main/controle-fluxo/README.md)**
+📌 **Para um estudo mais aprofundado, considere ler o README do [projeto controle-fluxo](https://github.com/Psytch-01/DIO-Java-Basico/blob/main/sintaxe-basica-java/controle-fluxo/README.md)**
 
 ## Laços de Repetição 🔄
 
@@ -284,7 +284,7 @@ As **Estruturas de Repetição** permitem executar blocos de código várias vez
 
 Essas estruturas oferecem controle sobre o fluxo de execução, tornando o código mais eficiente e flexível.  
 
-📌 **Para uma explicação mais detalhada sobre laços de repetição, confira o README do [projeto estruturas-repeticao](https://github.com/Psytch-01/DIO-Java-Basico/tree/main/controle-fluxo).**
+📌 **Para uma explicação mais detalhada sobre laços de repetição, confira o README do [projeto estruturas-repeticao](https://github.com/Psytch-01/DIO-Java-Basico/tree/main/sintaxe-basica-java/controle-fluxo).**
 
 ## Tratamento de Exceções ⚠️
 
@@ -298,7 +298,7 @@ Em Java, exceções são eventos que ocorrem durante a execução do programa e 
 
 O tratamento adequado de exceções torna o código mais seguro, prevenindo falhas inesperadas e garantindo um melhor controle do fluxo do programa.
 
-📌 **Para uma explicação mais aprofundada sobre o tratamento de exceções, confira o README do [projeto controle-fluxo](https://github.com/Psytch-01/DIO-Java-Basico/tree/main/controle-fluxo).**
+📌 **Para uma explicação mais aprofundada sobre o tratamento de exceções, confira o README do [projeto controle-fluxo](https://github.com/Psytch-01/DIO-Java-Basico/tree/main/sintaxe-basica-java/controle-fluxo).**
 
 
 ---
