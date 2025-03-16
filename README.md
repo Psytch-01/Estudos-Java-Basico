@@ -31,20 +31,25 @@ O objetivo é registrar meu progresso e criar um espaço para aprendizado contí
 
 ## Projetos 🛠️
 
-- **[Tipos de Variáveis](https://github.com/Psytch-01/DIO-Java-Basico/tree/main/sintaxe-basica-java/tipos-variaveis)**  
-  Exploração dos diferentes tipos de variáveis em Java e suas aplicações.
+### 📌 Sintaxe Básica Java
 
-- **[Controle de Fluxo](https://github.com/Psytch-01/DIO-Java-Basico/tree/main/sintaxe-basica-java/controle-fluxo)**  
-  Estudo sobre estruturas de controle de fluxo, incluindo condições e laços em Java.
+| Projeto | Descrição |
+|---------|-----------|
+| **[Tipos de Variáveis](https://github.com/Psytch-01/DIO-Java-Basico/tree/main/sintaxe-basica-java/tipos-variaveis)** | Exploração dos diferentes tipos de variáveis em Java e suas aplicações. |
+| **[Controle de Fluxo](https://github.com/Psytch-01/DIO-Java-Basico/tree/main/sintaxe-basica-java/controle-fluxo)** | Estudo sobre estruturas de controle de fluxo, incluindo condições e laços em Java. |
+| **[Java Terminal](https://github.com/Psytch-01/DIO-Java-Basico/tree/main/sintaxe-basica-java/java-terminal)** | Desenvolvimento de uma aplicação Java com execução diretamente pelo terminal, explorando conceitos básicos de input e output. |
+| **[Palavras Reservadas Java](https://github.com/Psytch-01/DIO-Java-Basico/tree/main/sintaxe-basica-java/palavras-reservadas-java)** | Análise detalhada das palavras reservadas da linguagem Java, explicando suas funções e usos dentro do código. |
+| **[Sistema Smart TV](https://github.com/Psytch-01/DIO-Java-Basico/tree/main/sintaxe-basica-java/sistema-smart-tv)** | Implementação de um sistema simples de controle de uma smart TV, onde comandos de uma classe controlam o comportamento de outra classe. |
+| **Projetos Complementares e Desafios** ↓↓ | |
+| **[Desafio Controle de Fluxo](https://github.com/Psytch-01/DIO-Java-Basico/tree/main/sintaxe-basica-java/DesafioControleFluxo)** | Implementação de um desafio focado em controle de fluxo, aplicando condições e laços em Java. |
+| **[Controle de Candidatos](https://github.com/Psytch-01/DIO-Java-Basico/tree/main/sintaxe-basica-java/controle-candidatos)** | Sistema para gerenciar candidatos, analisando dados e aplicando filtros com estruturas condicionais. |
+| **[Desafios de Código](https://github.com/Psytch-01/DIO-Java-Basico/tree/main/sintaxe-basica-java/desafios-codigo)** | Conjunto de desafios de lógica e programação para reforçar conceitos básicos e avançados de Java. |
 
-- **[java-terminal](https://github.com/Psytch-01/DIO-Java-Basico/tree/main/sintaxe-basica-java/java-terminal)**  
-  Desenvolvimento de uma aplicação Java com execução diretamente pelo terminal, explorando conceitos básicos de input e output.
+---
 
-- **[palavras-reservadas-java](https://github.com/Psytch-01/DIO-Java-Basico/tree/main/sintaxe-basica-java/palavras-reservadas-java)**  
-  Análise detalhada das palavras reservadas da linguagem Java, explicando suas funções e usos dentro do código.
+### 📌 Futuro: Hierarquia entre Classes e Outros Tópicos
 
-- **[sistema-smart-tv](https://github.com/Psytch-01/DIO-Java-Basico/tree/main/sintaxe-basica-java/sistema-smart-tv)**  
-  Implementação de um sistema simples de controle de uma smart TV, onde comandos de uma classe controlam o comportamento de outra classe (simulação de interação entre objetos).
+*(Em breve, serão adicionados novos projetos sobre temas como hierarquia entre classes, herança entre objetos no Java, etc.)*
 
 
 ## 🚀 Inicialização do Git & GitHub
