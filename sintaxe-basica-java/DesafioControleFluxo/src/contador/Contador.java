@@ -19,23 +19,22 @@ public class Contador {
         try {
 
             int contando = ParametrosInvalidosException.contar(parametroUm, parametroDois);
-            int contador = 0;
+            int i = 0;
             System.out.println("A diferença entre o " + parametroDois + " e " + parametroUm + " é " + contando + ". Iremos imprimir o resultado agora.");                
-            for (contador = 1; (contador <= contando); contador++ ) {
+            for (i = 1; (i <= contando); i++ ) {
 
-                System.out.println("imprimindo o número " + contador);                
+                System.out.println("imprimindo o número " + i);                
             }
            
                         
         }catch (RuntimeException e) {
             System.out.println(e.getMessage());
-        }
+            
+        }          
+
         
         terminal.close();
     }
 }      
 
-//java.util.InputMismatchException Ao colocar uma letra
-//java.util.InputMismatchException  Ao colocar 10.0
-//java.util.InputMismatchException Ao colocar -
 
