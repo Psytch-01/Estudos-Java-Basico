@@ -1,4 +1,4 @@
-# 🖥️ DIO - Java Básico
+# Java Básico ☕
 
 Códigos desenvolvidos e materiais estudados durante o curso de **Java Básico** na [Digital Innovation One](https://www.dio.me/).  
 
@@ -8,7 +8,7 @@ Códigos desenvolvidos e materiais estudados durante o curso de **Java Básico**
   <tr>
     <td><center><img src="https://github.com/Psytch-01/DIO-Java-Basico/blob/main/Assets/Psytch-.png" width="85" style="border-radius: 50%;"></center></td>
     <td>
-      <strong><a href="https://github.com/Psytch-01">Psytch-</a><br></strong>
+      <strong><a href="https://github.com/Psytch-01">Julio Cesar Agusso</a><br></strong>
       <strong>Estudante de Tecnologia | Back-end </strong>
     </td>
   </tr>
@@ -305,5 +305,109 @@ O tratamento adequado de exceções torna o código mais seguro, prevenindo falh
 
 📌 **Para uma explicação mais aprofundada sobre o tratamento de exceções, confira o README do [projeto controle-fluxo](https://github.com/Psytch-01/DIO-Java-Basico/tree/main/sintaxe-basica-java/controle-fluxo).**
 
+
+---
+
+# Fundamentos da Programação Orientada a Objetos com Java ☕
+
+A Programação Orientada a Objetos (POO) é um dos pilares fundamentais do desenvolvimento em Java. Nesta seção, abordaremos conceitos essenciais, como **Classes**, **Pacotes**, **Visibilidade dos Recursos**, **Getters e Setters**, **Construtores** e **Enums**.
+
+## Classes
+
+Organização das Classes
+Em um projeto bem estruturado, a separação das responsabilidades dentro do código é essencial. Em Java, geralmente organizamos nossas classes em diferentes categorias:
+
+- Classes de modelo (Model)
+- Classes de serviço (Service)
+- Classes de repositório (Repository)
+- Classes de controle (Controller)
+
+Essa separação melhora a manutenibilidade e a escalabilidade do código.
+
+
+## Pacotes
+
+Pacotes são usados para organizar classes e evitar conflitos de nomes. No Java, um pacote é declarado no topo do arquivo:
+
+```java
+package com.meuprojeto.veiculos;
+
+public class Carro {
+    // Código da classe
+}
+```
+
+Para utilizar uma classe de um pacote em outro arquivo, usamos o comando `import`:
+```java
+import com.meuprojeto.veiculos.Carro;
+```
+Dessa forma, podemos utilizar a classe `Carro` dentro de outro código sem problemas.
+
+## Visibilidade dos Recursos
+
+A visibilidade determina onde uma classe, atributo ou método pode ser acessado. Java possui quatro modificadores de acesso:
+
+- **`public`** → Acessível de qualquer lugar do código.
+- **`private`** → Acessível apenas dentro da própria classe.
+- **`protected`** → Acessível dentro do mesmo pacote e por subclasses.
+- **(Sem modificador - default)** → Acessível apenas dentro do mesmo pacote.
+
+## Getters e Setters
+
+Os métodos **getter** e **setter** são usados para controlar o acesso a atributos privados de uma classe, garantindo o encapsulamento.
+
+Exemplo:
+```java
+public class Carro {
+    private String marca;
+    
+    public String getMarca() {
+        return marca;
+    }
+    
+    public void setMarca(String marca) {
+        this.marca = marca;
+    }
+}
+```
+Aqui, o método `getMarca()` retorna o valor do atributo `marca`, enquanto `setMarca(String marca)` permite modificar esse valor de forma controlada.
+
+## Construtores
+
+Construtores são métodos especiais que são chamados automaticamente quando um objeto é instanciado. Eles inicializam os atributos de um objeto.
+
+### Exemplo de Construtor Padrão:
+```java
+public class Carro {
+    String marca;
+    String modelo;
+    int ano;
+
+    public Carro() {
+        System.out.println("Um carro foi criado!");
+    }
+}
+```
+
+
+
+Ao criar um novo carro, podemos inicializar os valores diretamente:
+```java
+Carro meuCarro = new Carro("Toyota", "Corolla", 2022);
+```
+
+## Enums
+
+Os **enums** são usados para definir um conjunto fixo de constantes nomeadas. Eles ajudam a tornar o código mais legível e seguro.
+
+Exemplo de Enum:
+```java
+public enum DiaSemana {
+    SEGUNDA, TERCA, QUARTA, QUINTA, SEXTA, SABADO, DOMINGO;
+}
+```
+
+
+📌 **Para um estudo mais aprofundado sobre `Categorias de Classes`, `Visibilidade de Recursos`, ` Getters & Setters`, `Construtores` e `Enums`, confira o README do [projeto getters-setters](https://github.com/Psytch-01/DIO-Java-Basico/tree/main/Orienta%C3%A7%C3%A3o-Objetos/getters-setters).**
 
 ---
