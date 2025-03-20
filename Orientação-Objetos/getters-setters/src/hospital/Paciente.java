@@ -6,10 +6,10 @@ public class Paciente {
     private String nome;
     private String endereco;
     
-    public Paciente(String cpf, String nome) {
-        this.cpf = cpf;
-        this.nome = nome;
-        this.endereco = endereco;
+    public Paciente(String cpf, String nome, String endereco) {
+            this.cpf = cpf;
+            this.nome = nome;
+            this.endereco = endereco;
     }
 
     public String getCpf() {
