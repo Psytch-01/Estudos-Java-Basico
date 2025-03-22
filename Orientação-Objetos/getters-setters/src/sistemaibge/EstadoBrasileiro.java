@@ -29,6 +29,7 @@ public enum EstadoBrasileiro {
         return sigla;
     }
 
+
     public void setSigla(String sigla) {
         this.sigla = sigla;
     }
