@@ -1,6 +1,6 @@
 # Java Básico ☕
 
-Códigos desenvolvidos e materiais estudados durante o curso de **Java Básico** na [Digital Innovation One](https://www.dio.me/).  
+Estudos e projetos desenvolvidos durante minha especialização em Java, focando em conceitos fundamentais e boas práticas de programação. Este repositório contém os materiais e exercícios, com exemplos práticos e explicações para facilitar o aprendizado. Muitos dos meus estudos têm base no Bootcamp Bradesco na [Digital Innovation One](https://www.dio.me/).  
 
 ## ✍️ Autor  
 
